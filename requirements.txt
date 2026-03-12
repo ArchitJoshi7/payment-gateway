@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+aioredis
+redis
+jinja2
