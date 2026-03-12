@@ -1,6 +1,4 @@
-# Idempotent Transactions in Banking: Building a Payment Gateway Simulator with FastAPI and SQLite
-
-*By Archit Joshi*
+# A Deep Dive into Idempotent Transaction Design
 
 ---
 
@@ -229,8 +227,8 @@ In production systems at scale, this pattern graduates to distributed locks (Red
 **1. Clone the repo and install dependencies:**
 
 ```bash
-git clone https://github.com/ArchitJoshi7/idempay
-cd idempay
+git clone https://github.com/ArchitJoshi7/payment-gateway
+cd payment-gateway
 pip install -r requirements.txt
 ```
 
@@ -320,4 +318,4 @@ If you're working in fintech or backend engineering and haven't built something 
 
 ---
 
-[**Link to GitHub Repo**](https://github.com/ArchitJoshi7/idempay)
+[**Link to GitHub Repo**](https://github.com/ArchitJoshi7/payment-gateway)
